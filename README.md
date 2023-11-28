@@ -1,4 +1,4 @@
-# Experiment--03-Half-Subtractor-and-Full-subtractor
+# Experiment--04-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -35,20 +35,44 @@ Write the detailed procedure here
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by: Maha Vidya J P
+RegisterNumber:  23013441
 */
 
-## Output:
+## Code
 
-## Truthtable
+![image](https://github.com/Mahavidyajp/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870914/4a9ddd9e-e07c-40af-b908-4afd9f85ed8d)
 
+## Truth Table
 
+## Half Subtractor
 
-##  RTL realization
+![image](https://github.com/Mahavidyajp/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870914/67eecc62-1f4f-4c9b-aa6d-f4d795006292)
 
+## Full Subtractor
 
-## Timing diagram 
+![image](https://github.com/Mahavidyajp/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870914/417ded03-63f1-4414-95a6-aa233c36452b)
+
+## RTL
+
+## Half Subtractor
+
+![image](https://github.com/Mahavidyajp/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870914/b5384c0e-74d4-4b54-8bbf-4f214dbaa4b8)
+
+## Full Subtractor
+
+![image](https://github.com/Mahavidyajp/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870914/dbe18603-c165-4989-ba4b-e958316d5590)
+
+## Timing Diagram
+
+## Half Subtractor
+
+![image](https://github.com/Mahavidyajp/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870914/a9b596d2-415b-433f-a309-ecdefa2fc803)
+
+## Full Subtractor
+
+![image](https://github.com/Mahavidyajp/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870914/fc49e98c-a474-4cae-8e18-154989ceae89)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
